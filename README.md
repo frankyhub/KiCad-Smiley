@@ -17,5 +17,5 @@
 | 1  | Microschalter   |
 | 2  | Batterieclipps   |
 | 2  |  CR2032  |
-| 1  |  Klipp  |
+| 1  |  Foldback-Klammern 15mm  |
 | -------- | -------- | 
