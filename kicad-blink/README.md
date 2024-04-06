@@ -3,7 +3,7 @@
 <img src="/pic/Smiley_blink_F.png" height="600">  <img src="/pic/Smiley_blink_B.png" height="600">
 
 
-###BOM
+### BOM
 
 | Anzahl | Bezeichnung | 
 | -------- | -------- | 
@@ -13,7 +13,7 @@
 |1	|S1 Micro_Schalter|
 |1	|U1 NE555|
 |1|	C1 1 220uF|
-|1	vD1 1N4148|
+|1	|D1 1N4148|
 |2	|P1, P2 10k|
 |2	|Q1, Q2 BC548|
 |1	|R3 560k|
