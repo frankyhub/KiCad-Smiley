@@ -1,6 +1,6 @@
 ## Smiley blink
 
-<img src="/pic/Smiley_blink_F.png" height="600">  <img src="pic/Smiley_blink_B.png" height="600">
+<img src="/pic/Smiley_blink_F.png" height="600">  <img src="/pic/Smiley_blink_B.png" height="600">
 
 
 ###BOM
