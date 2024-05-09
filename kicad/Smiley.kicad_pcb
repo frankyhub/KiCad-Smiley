@@ -67,7 +67,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Smiley_Gerber/")
+			(outputdirectory "SmileyGerber/")
 		)
 	)
 	(net 0 "")
@@ -121,7 +121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -344,7 +344,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -567,7 +567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -790,7 +790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1013,7 +1013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1236,7 +1236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1459,7 +1459,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1682,7 +1682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1905,7 +1905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2128,7 +2128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2351,7 +2351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2574,7 +2574,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2798,7 +2798,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3021,7 +3021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3244,7 +3244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3466,7 +3466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LOGO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4072,7 +4072,7 @@
 		(at 164 108)
 		(descr "Oberlab-Logo B.SilkS")
 		(property "Reference" "G***"
-			(at -6.445 -11.254 0)
+			(at -7.35 -11.45 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "075e2174-5062-4261-bd71-87e4e6e44f81")
@@ -4085,7 +4085,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at -5.695 -11.254 0)
+			(at -6.6 -11.45 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6a877c07-0cba-4f43-9863-a41353ae5e7a")
@@ -4097,7 +4097,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "!Goody:ob-logo_B.SilkS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5432,7 +5432,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6555,7 +6555,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6825,7 +6825,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7095,7 +7095,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7364,7 +7364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KHF_LIB:Micro_SchalterKHF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7500,7 +7500,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7815,7 +7815,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8189,7 +8189,7 @@
 			)
 		)
 		(property "Value" "Klipp"
-			(at -9.8786 -0.3791 0)
+			(at -8.35 -0.3291 0)
 			(layer "B.SilkS")
 			(uuid "73180295-a93a-4459-b1ac-f132a7639974")
 			(effects
@@ -8200,7 +8200,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "!Goody:Lötklipp"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8272,7 +8272,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "!Goody:Mini-Poti"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8322,8 +8322,8 @@
 		)
 		(pad "1" thru_hole circle
 			(at -2.54 -2.54 180)
-			(size 1.524 1.524)
-			(drill 0.762)
+			(size 2 2)
+			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 21 "Net-(P1-Pad1)")
@@ -8331,8 +8331,8 @@
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -2.54 180)
-			(size 1.524 1.524)
-			(drill 0.762)
+			(size 2 2)
+			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "Net-(C1-Pad1)")
@@ -8340,8 +8340,8 @@
 		)
 		(pad "3" thru_hole circle
 			(at 0 -7.62 180)
-			(size 1.524 1.524)
-			(drill 0.762)
+			(size 2 2)
+			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 21 "Net-(P1-Pad1)")
@@ -8378,7 +8378,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "!Goody:BAT-HLD-SMD-Blech"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8479,7 +8479,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "!Goody:BAT-HLD-SMD-Blech"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8626,7 +8626,7 @@
 			(size 3 3)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 16 "Net-(U2-Pad3)")
-			(uuid "3b33a087-d522-4a18-adad-efe31f4db357")
+			(uuid "9956ec12-7a61-4d57-9915-3574cdf03c17")
 		)
 	)
 	(gr_line
@@ -8700,8 +8700,8 @@
 		(layer "Edge.Cuts")
 		(uuid "cbb86957-3ac3-4e5d-baf7-f586dbd6b8c5")
 	)
-	(gr_text "KHF 04.2024"
-		(at 166 99 0)
+	(gr_text "KHF 05.2024"
+		(at 165.045 98.854 0)
 		(layer "B.Cu")
 		(uuid "be18fab2-bee8-47f1-a2d8-257991aecc4a")
 		(effects
@@ -8786,7 +8786,7 @@
 		)
 	)
 	(gr_text "JLCJLCJLCJLC"
-		(at 165 103 0)
+		(at 167 102.95 0)
 		(layer "B.SilkS")
 		(uuid "500e4033-9de8-414f-b220-ce75231cfd68")
 		(effects
@@ -8803,8 +8803,8 @@
 		(uuid "60fe277d-de72-4d5c-a847-b066db0e876a")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 2 2)
+				(thickness 0.5)
 				(bold yes)
 			)
 			(justify left bottom mirror)
@@ -8912,8 +8912,8 @@
 		(uuid "c40e812f-33ee-453e-aa2c-8b471293d201")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 2 2)
+				(thickness 0.5)
 				(bold yes)
 			)
 			(justify left bottom mirror)
@@ -9026,8 +9026,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "KHF 04.2024"
-		(at 166 99 0)
+	(gr_text "KHF 05.2024"
+		(at 165.095 98.804 0)
 		(layer "B.Mask")
 		(uuid "0902e8b4-ce89-48af-b591-d9a59115b7d8")
 		(effects
